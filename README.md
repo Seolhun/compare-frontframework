@@ -2,7 +2,8 @@
 
 ### Content
 #### 1. Angular vs React vs Vue
-- <img src="img/1.png" alt="Basic comparison" style="width: 500px; height: 400px"/> 
+<img src="img/1.png" alt="Basic comparison" style="width: 500px; height: 400px"/> 
+
 	- TypeScript란?
 		1. 대형 자바스크립트 어플리케이션에 적합한 언어
 		2. TypeScript 컴파일러를 통해 JavaScript로 변환 > 디버깅 가능
@@ -89,7 +90,7 @@
 		```
 
 - 현재 Github Stars
-<img src="img/2.png" alt="Github Stars" style="width: 500px; height: 400px"/> 
+<img src="img/2.png" alt="Github Stars" style="width: 500px; height: 600px"/> 
 
 - 현재 Contributor들의 커밋상황
 [AngularJS Contributor](https://github.com/angular/angular.js/graphs/contributors)
@@ -102,7 +103,9 @@
 ---
 #### 2. Main point to comparison
 1. Performance
+	- Framework Performance
 	<img src="img/4.png" alt="Framework Performance" style="width: 500px; height: 1000px"/> 
+
 	[Source](http://www.stefankrause.net/js-frameworks-benchmark6/webdriver-ts-results/table.html)
 	- 뷰가 가장 빠르지만, 대부분의 프레임워크의 선택함에 있어 성능은 크게 중요하지 않다.(큰 차이가 없다.)
 
@@ -115,7 +118,9 @@
 	개발자가 자바스크립트 내부에 마크업 코드를 작성해 줄 수 있게 해줍니다.
 	단순히 XML만 아니라 변수나 프로퍼티의 바인딩 기능도 제공합니다
 
-	- HTML
+	- HTML(Angualr, Vue)
+	Vue와 AngularJS의 경우 해당 HTML태그를 통해 다양한 기능을 구현할 수 있습니다.
+	Javascript를 잘 알지 못하는 디자이너가 디자인을 수정해야 할 경우 React는 적합하지 않습니다.
 
 
 3. Learning curve(Documentation)
@@ -133,6 +138,7 @@
 
 4. Typescript vs ES6 vs ES5[https://medium.com/@basarat/typescript-won-a4e0dfde4b08]
 	- If you are writing your code in TypeScript, you are not writing standard JavaScript anymore.
+	1. 타입스크립트를 작성하면 타입을 통한 유효성 검사가 가능해지며, 어노테이션 및 다양한 
 	
 	<img src="img/jsEx.png" alt="JavaScript Example" style="width: 500px; height: 400px"/> 
 
@@ -150,12 +156,15 @@
 
 ---
 ### Conclusion
-	- If you love the tech choices and you can live with the additional boilerplate overhead, pick Angular 2.
-	If you’re unhappy with some of the Angular 2 tech choices, and you want something slimmer and less prescriptive, pick React.
+	- Webpack과 오픈소스를 통해 Front에 Framework가 쉽게 진행되었습니다. 하지만, 앞으로의 Angualr의 경우 자체적인 프레임워크를 통해 필요한 Dependencies들에 대한 선택요소를 줄여줄 것입니다. 이와 반대로, 프레임워크 내에 자유로운 Dependencies들을 선택하여 필요한 기능만을 사용하여 가볍고 유연하게 사용할 수 있을 것입니다.
 
-	- The dirty little secret is that most “modern JavaScript development” is nothing to do with actually building websites — it’s building packages that can be used by people who build libraries that can be used by people who build frameworks that people who write tutorials and teach courses can teach.I’m not sure anyone is actually building anything for actual users to interact with.
+	- ** - The dirty little secret is that most “modern JavaScript development” is nothing to do with actually building websites — **
 
-	This is an exaggeration, of course, but there is probably a grain of truth to it. Yes, there is a lot of buzzing in the Javascript ecosystem. You’ll probably find a lot of other attractive alternatives during your search — try not to be blinded by the newest, shiniest framework.
+	It’s building packages that can be used by people who build libraries that can be used by people who build frameworks that people who write tutorials and teach courses can teach.
+	I’m not sure anyone is actually building anything for actual users to interact with.
+
+	- This is an exaggeration, of course, but there is probably a grain of truth to it. 
+	Yes, there is a lot of buzzing in the Javascript ecosystem. You’ll probably find a lot of other attractive alternatives during your search — ** Try not to be blinded by the newest, shiniest framework.**
 
 
 ---
