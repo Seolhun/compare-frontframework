@@ -20,6 +20,8 @@
 2. 객체지향의 특성을 갖추게 도와주며 재사용성을 높여줍니다.
 3. Write (Components) once, Use Anywhere
 
+---
+- Code Example 
 1. [AngualrJS - Component](https://docs.angularjs.org/guide/component)
 - AngularJS에서 컴포넌트(Component)는 컴포넌트 기반 응용 프로그램 구조에 적합한 간단한 구성을 사용하는 특별한 종류의 지시문입니다.
 
