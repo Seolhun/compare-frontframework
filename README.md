@@ -2,7 +2,8 @@
 
 ### Content
 #### 1. Angular vs React vs Vue
-- ![Basic comparison](./img/1.png = 500x500)
+- <img src="img/1.png" alt="Basic comparison" style="width: 500px;"/>
+- ![Basic comparison](img/1.png = 500x500)
 	- TypeScript란?
 		1. 대형 자바스크립트 어플리케이션에 적합한 언어
 		2. TypeScript 컴파일러를 통해 JavaScript로 변환 > 디버깅 가능
