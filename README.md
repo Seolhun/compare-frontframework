@@ -2,8 +2,7 @@
 
 ### Content
 #### 1. Angular vs React vs Vue
-<img src="img/1.png" alt="Basic comparison" style="width: 500px; height: 400px"/> 
-
+	- <img src="img/1.png" alt="Basic comparison" style="width: 500px; height: 400px"/> 
 	- TypeScript란?
 		1. 대형 자바스크립트 어플리케이션에 적합한 언어
 		2. TypeScript 컴파일러를 통해 JavaScript로 변환 > 디버깅 가능
@@ -111,8 +110,6 @@
 
 
 2. Recruting(HR)
-	- JSX or HTML
-
 	- JSX란? (React JS)
 	Javascript + XML을 합쳐서 탄생한 기존 자바스크립트의 확장 문법입니다.
 	개발자가 자바스크립트 내부에 마크업 코드를 작성해 줄 수 있게 해줍니다.
@@ -152,7 +149,6 @@
 	- Do you want to use types?
 		Yes - Use TypeScript
 		No - Use ES6
-
 
 ---
 ### Conclusion
