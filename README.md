@@ -2,7 +2,7 @@
 
 ### Content
 #### 1. Angular vs React vs Vue
-<img src="img/1.png" alt="Basic comparison" width="900" height="400">
+<img src="img/1.png" alt="Basic comparison" width="750" height="400">
 
 ---
 ##### - TypeScript란?
@@ -123,7 +123,7 @@ ReactDOM.render(
 
 ---
 ##### - 현재 Github Stars
-!<img src="img/2.png" alt="Github Stars" width="900" height="400">
+!<img src="img/2.png" alt="Github Stars" width="750" height="400">
 
 ##### - 현재 Contributor들의 커밋상황
 [AngularJS Contributor](https://github.com/angular/angular.js/graphs/contributors)
@@ -131,13 +131,13 @@ ReactDOM.render(
 [ReactJS Contributor](https://github.com/facebook/react/graphs/contributors)
 
 ##### - JS 사용비율
-!<img src="img/3.png" alt="JS Usage" width="900" height="400">
+!<img src="img/3.png" alt="JS Usage" width="750" height="400">
 
 
 ---
 #### 2. Main point to comparison
 ##### 1. Performance
-!<img src="img/4.png" alt="Framework Performance" width="900" height="1000">
+!<img src="img/4.png" alt="Framework Performance" width="400" height="700">
 
 [Source](http://www.stefankrause.net/js-frameworks-benchmark6/webdriver-ts-results/table.html)
 - 뷰가 가장 빠르지만, 대부분의 프레임워크의 선택함에 있어 성능은 크게 중요하지 않다.(큰 차이가 없다.)
@@ -171,11 +171,11 @@ Javascript를 잘 알지 못하는 디자이너가 디자인을 수정해야 할
 - If you are writing your code in TypeScript, you are not writing standard JavaScript anymore.
 1. 타입스크립트를 작성하면 타입을 통한 유효성 검사가 가능해지며, 어노테이션 및 다양한 
 
-!<img src="img/jsEx.png" alt="JavaScript Example" width="900" height="400">
+!<img src="img/jsEx.png" alt="JavaScript Example" width="750" height="400">
 
-!<img src="img/es6Ex.png" alt="ES6 Example" width="900" height="400">
+!<img src="img/es6Ex.png" alt="ES6 Example" width="750" height="400">
 
-!<img src="img/typeEx.png" alt="Type Script Example" width="900" height="400">
+!<img src="img/typeEx.png" alt="Type Script Example" width="750" height="400">
 - Do you mind having a build step?
 	Yes - Use ES5
 	No - keep going
