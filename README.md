@@ -2,8 +2,7 @@
 
 ### Content
 #### 1. Angular vs React vs Vue
-- <img src="img/1.png" alt="Basic comparison" style="width: 500px;"/>
-- ![Basic comparison](img/1.png = 500x500)
+- <img src="img/1.png" alt="Basic comparison" style="width: 500px; height: 400px"/> 
 	- TypeScript란?
 		1. 대형 자바스크립트 어플리케이션에 적합한 언어
 		2. TypeScript 컴파일러를 통해 JavaScript로 변환 > 디버깅 가능
@@ -90,7 +89,7 @@
 		```
 
 - 현재 Github Stars
-![Github Stars](img/2.png = 500x500)
+<img src="img/2.png" alt="Github Stars" style="width: 500px; height: 400px"/> 
 
 - 현재 Contributor들의 커밋상황
 [AngularJS Contributor](https://github.com/angular/angular.js/graphs/contributors)
@@ -98,13 +97,12 @@
 [ReactJS Contributor](https://github.com/facebook/react/graphs/contributors)
 
 - JS Usage ratio
-![JS Usage](img/3.png = 500x500)
-
+<img src="img/3.png" alt="JS Usage" style="width: 500px; height: 400px"/> 
 
 ---
 #### 2. Main point to comparison
 1. Performance
-	![Framework Performance](img/4.png = 500x500)
+	<img src="img/4.png" alt="Framework Performance" style="width: 500px; height: 1000px"/> 
 	[Source](http://www.stefankrause.net/js-frameworks-benchmark6/webdriver-ts-results/table.html)
 	- 뷰가 가장 빠르지만, 대부분의 프레임워크의 선택함에 있어 성능은 크게 중요하지 않다.(큰 차이가 없다.)
 
@@ -136,13 +134,11 @@
 4. Typescript vs ES6 vs ES5[https://medium.com/@basarat/typescript-won-a4e0dfde4b08]
 	- If you are writing your code in TypeScript, you are not writing standard JavaScript anymore.
 	
-	[JavaScript Example](img/jsEx.png = 500x500 )
+	<img src="img/jsEx.png" alt="JavaScript Example" style="width: 500px; height: 400px"/> 
 
+	<img src="img/es6Ex.png" alt="ES6 Example" style="width: 500px; height: 400px"/> 
 
-	[ES6 Example](img/es6Ex.png = 500x500)
-
-
-	[Type Script Example](img/typeEx.png = 500x500)
+	<img src="img/typeEx.png" alt="Type Script Example" style="width: 500px; height: 400px"/> 
 	- Do you mind having a build step?
 		Yes - Use ES5
 		No - keep going
