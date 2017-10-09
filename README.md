@@ -188,13 +188,9 @@ Javascript를 잘 알지 못하는 디자이너가 디자인을 수정해야 할
 ### Conclusion
 - Webpack과 오픈소스를 통해 Front에 Framework가 쉽게 진행되었습니다. 하지만, 앞으로의 Angualr의 경우 자체적인 프레임워크를 통해 필요한 Dependencies들에 대한 선택요소를 줄여줄 것입니다. 이와 반대로, 프레임워크 내에 자유로운 Dependencies들을 선택하여 필요한 기능만을 사용하여 가볍고 유연하게 사용할 수 있을 것입니다.
 
-- ** - The dirty little secret is that most “modern JavaScript development” is nothing to do with actually building websites — **
-
-It’s building packages that can be used by people who build libraries that can be used by people who build frameworks that people who write tutorials and teach courses can teach.
-I’m not sure anyone is actually building anything for actual users to interact with.
-
 - This is an exaggeration, of course, but there is probably a grain of truth to it. 
-Yes, there is a lot of buzzing in the Javascript ecosystem. You’ll probably find a lot of other attractive alternatives during your search — ** Try not to be blinded by the newest, shiniest framework.**
+Yes, there is a lot of buzzing in the Javascript ecosystem. You’ll probably find a lot of other attractive alternatives during your search 
+** Try not to be blinded by the newest, shiniest framework.**
 
 
 ---
