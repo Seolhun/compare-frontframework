@@ -176,13 +176,14 @@ Javascript를 잘 알지 못하는 디자이너가 디자인을 수정해야 할
 <img src="img/es6Ex.png" alt="ES6 Example" width="750" height="400">
 
 <img src="img/typeEx.png" alt="Type Script Example" width="750" height="400">
+
 - Do you mind having a build step?
-	- Yes - Use ES5
-	- No - keep going
+	- Yes : Use ES5
+	- No : keep going
 
 - Do you want to use types?
-	- Yes - Use TypeScript
-	- No - Use ES6
+	- Yes : Use TypeScript
+	- No : Use ES6
 
 ---
 ### Conclusion
