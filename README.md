@@ -169,7 +169,7 @@ Javascript를 잘 알지 못하는 디자이너가 디자인을 수정해야 할
 
 ##### 4. Typescript vs ES6 vs ES5[https://medium.com/@basarat/typescript-won-a4e0dfde4b08]
 - If you are writing your code in TypeScript, you are not writing standard JavaScript anymore.
-1. 타입스크립트를 작성하면 타입을 통한 유효성 검사가 가능해지며, 어노테이션 및 다양한 
+1. 타입스크립트를 작성하면 타입을 통한 유효성 검사가 가능해지며, 어노테이션 및 다양한 문법을 통해 코드의 양을 줄여줍니다.
 
 <img src="img/jsEx.png" alt="JavaScript Example" width="750" height="400">
 
@@ -187,7 +187,8 @@ Javascript를 잘 알지 못하는 디자이너가 디자인을 수정해야 할
 
 ---
 ### Conclusion
-- Webpack과 오픈소스를 통해 Front에 Framework가 쉽게 진행되었습니다. 하지만, 앞으로의 Angualr의 경우 자체적인 프레임워크를 통해 필요한 Dependencies들에 대한 선택요소를 줄여줄 것입니다. 이와 반대로, 프레임워크 내에 자유로운 Dependencies들을 선택하여 필요한 기능만을 사용하여 가볍고 유연하게 사용할 수 있을 것입니다.
+- Webpack과 같은 Bundler 오픈소스를 통해 Front에 Framework화가 쉽게 진행되었습니다.
+Angualr는 자체적인 프레임워크로 성장하여 필요한 Dependencies들에 대한 선택요소를 줄여줍니다. 이와 반대로 React나 Vue와 같은 경우, Bundler를 통해 자유로운 Dependencies들을 선택하여 필요한 기능만을 사용하여 가볍고 유연하게 사용할 수 있습니다.
 
 - This is an exaggeration, of course, but there is probably a grain of truth to it. 
 Yes, there is a lot of buzzing in the Javascript ecosystem. You’ll probably find a lot of other attractive alternatives during your search **-- Try not to be blinded by the newest, shiniest framework.**
