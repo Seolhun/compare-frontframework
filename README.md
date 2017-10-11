@@ -190,6 +190,30 @@ Javascript를 잘 알지 못하는 디자이너가 디자인을 수정해야 할
 - Webpack과 같은 Bundler 오픈소스를 통해 Front에 Framework화가 쉽게 진행되었습니다.
 Angualr는 자체적인 프레임워크로 성장하여 필요한 Dependencies들에 대한 선택요소를 줄여줍니다. 이와 반대로 React나 Vue와 같은 경우, Bundler를 통해 자유로운 Dependencies들을 선택하여 필요한 기능만을 사용하여 가볍고 유연하게 사용할 수 있습니다.
 
+결론적으로, 
+- Angular
+	- 대형 프로젝트
+	- 웹과 앱
+	- TypeScript, ES6 이상을 사용
+	- HTML 퍼블리셔와 협업 시(팀 구성시)
+
+- AngularJS
+	- 개인적으로, AngularJS는 현재 업데이트가 거의 멈춘 상태이므로 쓰지 않는 것이 바람직하다고 생각합니다.
+
+- ReactJS
+	- 대형 보다 낮은 프로젝트
+	- 웹과 앱
+	- 순수 자바스크립트 코딩
+	- JS 개발자 위주 팀 구성(HTML 퍼블리셔 X)
+	
+- Vue
+	- 중소형 프로젝트
+	- 웹
+	- Event Driven에 초점을 맞춘 웹 사이트 구축
+	- HTML 퍼블리셔와 협업 시(팀 구성시)
+	- Server에 중점적으로 개발하고 Client는 큰 어려움없이 개발해야 할 시
+
+
 - This is an exaggeration, of course, but there is probably a grain of truth to it. 
 Yes, there is a lot of buzzing in the Javascript ecosystem. You’ll probably find a lot of other attractive alternatives during your search **-- Try not to be blinded by the newest, shiniest framework.**
 
