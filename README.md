@@ -214,7 +214,7 @@ Angualr는 자체적인 프레임워크로 성장하여 필요한 Dependencies�
 	- Server에 중점적으로 개발하고 Client는 큰 어려움없이 개발해야 할 시
 
 - 마지막으로 좋은 글이 있어 퍼왔습니다.
-	This is an exaggeration, of course, but there is probably a grain of truth to it. 
+	- This is an exaggeration, of course, but there is probably a grain of truth to it. 
 	Yes, there is a lot of buzzing in the Javascript ecosystem. You’ll probably find a lot of other attractive
 	alternatives during your search **-- Try not to be blinded by the newest, shiniest framework.**
 
