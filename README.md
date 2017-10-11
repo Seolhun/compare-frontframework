@@ -167,7 +167,7 @@ Javascript를 잘 알지 못하는 디자이너가 디자인을 수정해야 할
 - Vue의 경우는 기본 Javascript와 닮아 배우기에 간단합니다. 하지만, 앞으로 나아가야 할 길이 많습니다.
 
 
-##### 4. Typescript vs ES6 vs ES5[https://medium.com/@basarat/typescript-won-a4e0dfde4b08]
+##### 4. (Typescript vs ES6 vs ES5)[https://medium.com/@basarat/typescript-won-a4e0dfde4b08]
 - If you are writing your code in TypeScript, you are not writing standard JavaScript anymore.
 1. 타입스크립트를 작성하면 타입을 통한 유효성 검사가 가능해지며, 어노테이션 및 다양한 문법을 통해 코드의 양을 줄여줍니다.
 
@@ -204,7 +204,7 @@ Yes, there is a lot of buzzing in the Javascript ecosystem. You’ll probably fi
 2. Blog
 - [Comparison1](http://blog.jeonghwan.net/vue/2017/03/29/is-vue-better-than-angular-react.html) 
 - [Comparison2](https://medium.com/unicorn-supplies/angular-vs-react-vs-vue-a-2017-comparison-c5c52d620176)
-- [Comparison3]https://medium.com/@harryho2/angular-vs-react-vs-vue-f470f5b74bf6 
+- [Comparison3](https://medium.com/@harryho2/angular-vs-react-vs-vue-f470f5b74bf6)
 - [Shadow DOM이란](https://blog.thoughtram.io/angular/2015/06/29/shadow-dom-strategies-in-angular2.html)
 - [Virtual DOM이란](http://3794.tistory.com/entry/가상-DOM-이란)
 
