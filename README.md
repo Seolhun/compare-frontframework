@@ -1,4 +1,4 @@
-# [Comparison Front-End](https://github.com/Seolhun/compare-frontframework/edit/master/README.md)
+# [Comparison Front-End](https://github.com/Seolhun/compare-frontframework)
 - Author : [SeolHun](https://github.com/Seolhun)
 - Date : 2017.10.11
 ---
