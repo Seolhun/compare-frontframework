@@ -212,7 +212,7 @@ Angualr는 자체적인 프레임워크로 성장하여 필요한 Dependencies�
 	- 스스로 고민하고 기술들을 비교하여 기술스택을 고르고 싶을때
 	- JS 개발자 위주 팀 구성(HTML 퍼블리셔 X)
 	
-- Vue
+- [Vue](https://stackshare.io/vue-js)
 	- 중소형 프로젝트
 	- 웹과 앱(NativeScript)
 	- Event Driven에 초점을 맞춘 웹 사이트 구축
