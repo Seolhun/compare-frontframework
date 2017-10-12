@@ -194,29 +194,30 @@ Javascript를 잘 알지 못하는 디자이너가 디자인을 수정해야 할
 Angualr는 자체적인 프레임워크로 성장하여 필요한 Dependencies들에 대한 선택요소를 줄여줍니다. 이와 반대로 React나 Vue와 같은 경우, Bundler를 통해 자유로운 Dependencies들을 선택하여 필요한 기능만을 사용하여 가볍고 유연하게 사용할 수 있습니다.
 
 결론적으로, 
-- Angular
-	- 대형 프로젝트
-	- 웹과 앱
+- [Angular](https://stackshare.io/angular-2)
+	- 중, 대형 프로젝트
+	- 웹 - 앱(NativeScript)
 	- TypeScript, ES6 이상을 사용
 	- Googler들의 올바른 선택을 믿고 큰 고민없이 기술스택을 고르고 싶을때
-	- HTML 퍼블리셔와 협업 시(팀 구성시)
+	- HTML과 JS함께 기능 제공 - HTML 퍼블리셔와 협업 시(팀 구성시)
 
-- AngularJS
+- [AngularJS](https://stackshare.io/angularjs)
 	- 개인적으로, AngularJS는 현재 업데이트가 거의 멈춘 상태이므로 쓰지 않는 것이 바람직하다고 생각합니다.
+	- Angular의 도입으로 현재도 많이 사용되고 있으나, 차후에 버전 마이그레이션 작업이 소요될 것으로 판단.
 
-- ReactJS
-	- 대형 보다 낮은 프로젝트
-	- 웹과 앱
-	- 순수 자바스크립트 코딩
+- [React](https://stackshare.io/react)
+	- 중,대형 프로젝트 (Instagram, Facebook 등)
+	- 웹과 앱(React Native)
+	- 자바스크립트를 통한 UI 코딩(JSX)
 	- 스스로 고민하고 기술들을 비교하여 기술스택을 고르고 싶을때
 	- JS 개발자 위주 팀 구성(HTML 퍼블리셔 X)
 	
 - Vue
 	- 중소형 프로젝트
-	- 웹
+	- 웹과 앱(NativeScript)
 	- Event Driven에 초점을 맞춘 웹 사이트 구축
 	- 스스로 고민하고 기술들을 비교하여 기술스택을 고르고 싶을때
-	- HTML 퍼블리셔와 협업 시(팀 구성시)
+	- HTML과 JS함께 기능 제공 - HTML 퍼블리셔와 협업 시(팀 구성시)
 	- Server에 중점적으로 개발하고 Client는 큰 어려움없이 개발해야 할 시
 
 - 마지막으로 좋은 글이 있어 퍼왔습니다.
